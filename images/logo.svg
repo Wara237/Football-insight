@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 144" role="img" aria-label="Écusson du FC Horizon">
+  <defs>
+    <linearGradient id="ciel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#143c4a"/><stop offset="1" stop-color="#f5a623"/></linearGradient>
+    <clipPath id="ecu"><path d="M60 6 L110 23 V70 C110 103 87 127 60 138 C33 127 10 103 10 70 V23 Z"/></clipPath>
+  </defs>
+  <g clip-path="url(#ecu)">
+    <rect width="120" height="144" fill="url(#ciel)"/>
+    <path d="M30 86 A30 30 0 0 1 90 86 Z" fill="#ffd36b"/>
+    <rect y="86" width="120" height="58" fill="#1f7a4d"/>
+    <path d="M0 98 L120 98 M0 112 L120 112" stroke="#fff" stroke-opacity=".25" stroke-width="2"/>
+    <text x="60" y="124" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="20" fill="#fff">FCH</text>
+  </g>
+  <path d="M60 6 L110 23 V70 C110 103 87 127 60 138 C33 127 10 103 10 70 V23 Z" fill="none" stroke="#f5a623" stroke-width="5"/>
+</svg>
